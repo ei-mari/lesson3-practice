@@ -13,6 +13,9 @@
 - `sdl-sps2026/lesson3/practice2/`  
   Lesson 3 Practice 2
 
+- `sdl-sps2026/lesson3/practice3/`  
+  Lesson 3 Practice 3
+
 ## GitHub Pagesで公開した後のURL
 
 リポジトリ名が `lesson3-practice` の場合は、以下のようになります。
@@ -20,6 +23,7 @@
 - `https://ユーザー名.github.io/lesson3-practice/`
 - `https://ユーザー名.github.io/lesson3-practice/sdl-sps2026/lesson3/practice1/`
 - `https://ユーザー名.github.io/lesson3-practice/sdl-sps2026/lesson3/practice2/`
+- `https://ユーザー名.github.io/lesson3-practice/sdl-sps2026/lesson3/practice3/`
 
 ## GitHub Pages設定
 
